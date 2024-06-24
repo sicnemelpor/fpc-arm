@@ -1,2 +1,2 @@
-# fpc-arm
-ARM versions of FreePascal (Raspberry PI and PICO)
+# FreePascal
+My projects and libraries in FreePascal
